@@ -2,6 +2,7 @@
   "name": "assessment-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://arjun-mavai.github.io/Math-Assessement-Project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
